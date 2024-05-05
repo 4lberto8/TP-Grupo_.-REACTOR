@@ -11,6 +11,7 @@
 
 //Sabaso 4 de Mayo
 //ESTA VERSION SOLO ES PARA CORRECGIR
+//EDICION1
 
 #include "iostream"
 #include "conio.h"
