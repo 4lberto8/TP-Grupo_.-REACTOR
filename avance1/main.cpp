@@ -43,7 +43,7 @@ int main()
     perder* operder;
     operder = new perder();
 
-    opresentacion->TEST_KNIGHTSX_15(2, 1);
+    //opresentacion->TEST_KNIGHTSX_15(2, 1);
 
     //otitulo->TITULO_MENU_116_v1(0, 23);
     //otitulo->TITULO_MENU_252_v1(0, 26);
@@ -61,7 +61,7 @@ int main()
 
 
     //COMMANDO PRINCIPAL
-    //opresentacion->PRESENTACION();
+    opresentacion->PRESENTACION();
 
     system("pause>0");
     return 0;
