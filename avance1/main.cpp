@@ -43,7 +43,7 @@ int main()
     perder* operder;
     operder = new perder();
 
-    //opresentacion->TEST_KNIGHTSX_15(2, 1);
+    opresentacion->TEST_KNIGHTSX_15(2, 1);
 
     //otitulo->TITULO_MENU_116_v1(0, 23);
     //otitulo->TITULO_MENU_252_v1(0, 26);
@@ -55,7 +55,7 @@ int main()
     //oganar->TITULO_GANAR_v2();
 
     //onivel->nivel_TEST();
-    onivel->nivel1_2();
+    //onivel->nivel1_2();
     //onivel->nivel2_2_1();
     //onivel->nivel3_3();
 
