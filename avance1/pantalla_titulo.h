@@ -200,13 +200,13 @@ public:
 	}
 
 	void TEXT_INTEGRANTE1_L(int x, int y) {
-		p(x, y); b_c(1), f_c(15); cout << "Almeida Mora, Rodrigo Fernando";
+		p(x, y); b_c(1), f_c(15); cout << "1";
 	}
 	void TEXT_INTEGRANTE2_L(int x, int y) {
 		p(x, y); b_c(1), f_c(15); cout << "Peña Guerra, Alberto Antonio";
 	}
 	void TEXT_INTEGRANTE3_L(int x, int y) {
-		p(x, y); b_c(1), f_c(15); cout << "Rocca León, Anhelo Rodrigo";
+		p(x, y); b_c(1), f_c(15); cout << "3";
 	}
 
 	void dibuja_player_v1(int x, int y)//M1 -> Modelo 1
