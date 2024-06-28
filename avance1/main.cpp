@@ -1,17 +1,6 @@
 //SINOPSIS:
-//La empresa "NOMBRE_DE_EMPRESA" a sufrido un ataque de "Ramsonware" afectando terabytes de data.
-
-
-//Sabado 27 de Abril
-//El nivel ahora se compone de tres fases, las cuales aumentan en dificultad gradualmente
-//1era fase tiene menos enemigos, 2nda fase tiene una cantidad de enemigos considerable y la 3era fase tiene un enemigo con pregunta obligatoria
-//Jueves 2 de Mayo - un dia antes de la entrega
-// EN PROCESO: COLISION, SISTEMA DE RESOLUCION DE PREGUNTAS (MISION)
-// FALTA: Conteo de preguntas resueltas
-
-//Sabaso 4 de Mayo
-//ESTA VERSION SOLO ES PARA CORRECGIR
-//EDICION3
+// EN PROCESO:
+// FALTA:
 
 #include "iostream"
 #include "conio.h"
