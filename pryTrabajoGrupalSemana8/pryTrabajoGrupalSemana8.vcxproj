@@ -20,12 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
-    <ProjectGuid>{8F979949-AAD3-4F1C-8399-64B4692371C0}</ProjectGuid>
+    <ProjectGuid>{427B77CC-FE56-4BA7-A95F-2E78D6EEF5EA}</ProjectGuid>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
-    <RootNamespace>avance1</RootNamespace>
+    <RootNamespace>pryTrabajoGrupalSemana8</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>avance2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -112,21 +111,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="aliado.h" />
-    <ClInclude Include="color-control.h" />
-    <ClInclude Include="enemigos.h" />
-    <ClInclude Include="font_control.h" />
-    <ClInclude Include="interfaz.h" />
-    <ClInclude Include="nivel.h" />
-    <ClInclude Include="pantalla_gameover.h" />
-    <ClInclude Include="pantalla_presentacion.h" />
-    <ClInclude Include="pantalla_titulo.h" />
-    <ClInclude Include="pantalla_youwin.h" />
-    <ClInclude Include="jugador.h" />
-    <ClInclude Include="tilessets.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
